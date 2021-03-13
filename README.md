@@ -1,4 +1,4 @@
-# Go-Login-Session
+# Go-Login-Logout-Session
 Sign in and Sign out with session using GoLang 
 using go gorilla sessions
 
